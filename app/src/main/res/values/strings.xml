@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProblemStatementL4</string>
+    <string name="name">Restaurando</string>
+    <string name="reservation">Reservation</string>
+    <string name="customer">Customer Name</string>
+    <string name="mobilephone">Mobile Number</string>
+    <string name="phone">Number</string>
+    <string name="SizeGroup">Size of Group</string>
+    <string name="smoke">Smoking Area</string>
+    <string name="nonsmoke">Non-Smoking Area</string>
+    <string name="date">Date of Reservation</string>
+    <string name="time">Time of Reservation</string>
+    <string name="reset">Reset</string>
+</resources>
